@@ -3,9 +3,9 @@ package co.edu.ucc.ibeth.singleton;
 /**
  * Encabezado Personalizado:
  * Autor: Ibeth Pacheco de la Hostia
- * Curso: Patrones de Diseño Orientado a Objetos - Factory
+ * Curso: Patrones de Diseño Orientado a Objetos - Singleton
  * Fecha: 25/02/2025
- * Descripción: Clase principal que utiliza el Factory
+ * Descripción: Clase principal que utiliza el Singleton Logger para registrar mensajes.
  */
 public class Logger {
 

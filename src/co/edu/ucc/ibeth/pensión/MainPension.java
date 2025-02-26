@@ -1,5 +1,11 @@
 package co.edu.ucc.ibeth.pensión;
-
+/**
+ * Encabezado Personalizado:
+ * Autor: Ibeth Pacheco de la Hostia
+ * Curso: Patrones de Diseño Orientado a Objetos - Factory
+ * Fecha: 25/02/2025
+ * Descripción: Clase principal que utiliza el Factory
+ */
 public class MainPension {
 
 	public static void main(String[] args) {
